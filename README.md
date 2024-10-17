@@ -16,9 +16,9 @@ class DigitalRickdiculousScientist:
             ]
         }''')
     
-    def cast_spell(self, seed: int = 42) -> None:
-        """-- SELECT spell FROM Council_of_Ricks WHERE type = 'Permutation_Sorcery' --"""
-        print(f"Wubba Lubba Dub Dub! Permutation {seed} activated! 🧙‍♂️")
+    def fire_portal_gun(self, dimension: str = "C137") -> None:
+        """-- SELECT location FROM infinite_dimensions WHERE reality = 'Optimal_Coding_Universe' --"""
+        print(f"*burp* Portal to dimension {dimension} opened! Let's hack the multiverse! 🌀")
 
     @property
     def current_status(self) -> str:
@@ -33,11 +33,11 @@ class DigitalRickdiculousScientist:
 
 if __name__ == "__main__":
     rick = DigitalRickdiculousScientist()
-    rick.cast_spell(seed=C137)
+    rick.fire_portal_gun(dimension="C137")
 
 # 🛠️ Skills Arsenal 🛠️
 # - Python: Django, Flask, FastAPI, Pandas, NumPy, SciPy
-# - JavaScript: Vanilla JS, Playwright, Cypress, Nightwatch
+# - JavaScript: Vanilla JS, Playwright, Cypress, Watchman
 # - Databases: Redis, PostgreSQL, MySQL, MongoDB
 # - APIs: REST, GraphQL
 # - Other: Docker, Git, CI/CD, Cloud Platforms (AWS, GCP)
