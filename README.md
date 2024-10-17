@@ -40,8 +40,8 @@ if __name__ == "__main__":
 
 # 🛠️ Skills Arsenal 🛠️
 # - Python: Django, Flask, FastAPI, Pandas, NumPy, SciPy
-# - JavaScript: Vanilla JS, Playwright, Cypress, Watchman
-# - Databases: Redis, PostgreSQL, MySQL, MongoDB
+# - JavaScript: Vanilla JS, Playwright, Cypress, Nightwatch
+# - Databases: Redis-stack, PostgreSQL, MySQL, MongoDB
 # - APIs: REST, GraphQL
 # - Other: Docker, Git, CI/CD, Cloud Platforms (AWS, GCP)
 ```
