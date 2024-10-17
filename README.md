@@ -16,9 +16,12 @@ class DigitalRickdiculousScientist:
             ]
         }''')
     
-    def fire_portal_gun(self, dimension: str = "C137") -> None:
-        """-- SELECT location FROM infinite_dimensions WHERE reality = 'Optimal_Coding_Universe' --"""
-        print(f"*burp* Portal to dimension {dimension} opened! Let's hack the multiverse! 🌀")
+    def merge_fractured_timelines(self, uncertainty_level: float = 0.5) -> None:
+        """-- SELECT timeline FROM fractured_realities WHERE Morty_Summer_Certainty < 0.5 --"""
+        if uncertainty_level > 0.7:
+            print("*burp* It's fine, we'll just go to a reality where we fixed it.")
+        else:
+            print(f"Merging timelines with {uncertainty_level:.2f} uncertainty. Hold onto your butts! 🌀🔄")
 
     @property
     def current_status(self) -> str:
@@ -33,7 +36,7 @@ class DigitalRickdiculousScientist:
 
 if __name__ == "__main__":
     rick = DigitalRickdiculousScientist()
-    rick.fire_portal_gun(dimension="C137")
+    rick.merge_fractured_timelines(uncertainty_level=0.42)
 
 # 🛠️ Skills Arsenal 🛠️
 # - Python: Django, Flask, FastAPI, Pandas, NumPy, SciPy
