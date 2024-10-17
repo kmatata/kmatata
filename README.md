@@ -21,7 +21,7 @@ class DigitalRickdiculousScientist:
         if uncertainty_level > 0.7:
             print("*burp* It's fine, we'll just go to a reality where we fixed it.")
         else:
-            print(f"Merging timelines with {uncertainty_level:.2f} uncertainty. Hold onto your butts! 🌀🔄")
+            print(f"Merging timelines with {uncertainty_level:.2f} uncertainty....and away we go! 🌀🔄")
 
     @property
     def current_status(self) -> str:
